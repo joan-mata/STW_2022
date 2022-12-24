@@ -1,0 +1,14 @@
+{
+  "name": "stw-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron --no-sandbox .",
+    "build": "./build-script.sh"
+  },
+  "devDependencies": {
+    "electron": "^18.2.3",
+    "electron-packager": "^15.5.1"
+  }
+}
